@@ -1,0 +1,26 @@
+{
+    "name": "catify-js",
+    "version": "0.0.1",
+    "description": "A tiny and minimalist javascript frontend framework",
+    "main": "index.js",
+    "scripts": {
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/magicthecat/claw-js.git"
+    },
+    "keywords": [
+        "framework",
+        "javascript",
+        "frontend",
+        "minimal",
+        "tiny"
+    ],
+    "author": "MagicTheCat",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/magicthecat/claw-js/issues"
+    },
+    "homepage": "https://github.com/magicthecat/claw-js#readme"
+}
