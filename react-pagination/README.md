@@ -14,7 +14,6 @@ import { useState, useEffect, useRef } from "react";`
 
 2.  Import the `catify-react-pagination` component:
 
-javascriptCopy code
 
 `import { PaginationComponent } from "catify-react-pagination";`
 
@@ -35,10 +34,7 @@ javascriptCopy code
     // Render initial pagination
     paginationRef.render();
 
-    // Clean up by destroying the pagination instance
-    return () => {
-      paginationRef.destroy();
-    };
+
   }, [data, itemsPerPage]);
 
   return (
