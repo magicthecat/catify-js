@@ -1,0 +1,30 @@
+{
+  "name": "catify-react-pagination",
+  "version": "1.0.6",
+  "description": "A simple React Component to use catify-pagination",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicthecat/catify-js.git"
+  },
+  "keywords": [
+    "react",
+    "pagination",
+    "component"
+  ],
+  "author": "MagicTheCat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicthecat/catify-js/issues"
+  },
+  "homepage": "https://github.com/magicthecat/catify-js#readme",
+  "dependencies": {
+    "react": "^18.0.0"
+  },
+  "devDependencies": {
+    "catify-pagination": "^2.0.0"
+  }
+}

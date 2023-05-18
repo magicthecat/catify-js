@@ -1,0 +1,26 @@
+{
+  "name": "catify-pagination",
+  "version": "2.0.2",
+  "description": "A minimalistic javascript class for rendering pagination. Compatible in vanilla javascript, vue and react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicthecat/catify-js.git"
+  },
+  "keywords": [
+    "pagination",
+    "vue",
+    "react",
+    "tiny",
+    "minimal"
+  ],
+  "author": "MagicTheCat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magicthecat/catify-js/issues"
+  },
+  "homepage": "https://github.com/magicthecat/catify-js#readme"
+}
